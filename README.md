@@ -1,14 +1,3 @@
-Your content is already very close to proper GitHub Markdown, but for a **clean, GitHub-ready `README.md`** we should:
-
-* Remove unnecessary separators
-* Ensure headings render properly
-* Keep code blocks and diagrams intact
-* Make tables GitHub-compatible
-* Improve readability for GitHub viewers
-
-Below is a **cleaned `README.md` version ready to paste directly into a Git repo**.
-
----
 
 # LEADTOOLS PACS Framework – Architecture & Setup Guide
 
